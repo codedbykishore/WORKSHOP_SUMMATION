@@ -119,7 +119,7 @@ public class MainActivity extends AppCompatActivity {
 
 ## Output:
 
-<img width="540" alt="Screenshot 2024-05-06 at 9 03 28 AM" src="https://github.com/gauthamkrishna7/WORKSHOP_SUMMATION/assets/141175025/fb3d6fa3-0fcc-4b85-bba9-bf3d43656454">
+<img width="400" alt="Screenshot 2024-05-06 at 9 03 28 AM" src="https://github.com/gauthamkrishna7/WORKSHOP_SUMMATION/assets/141175025/fb3d6fa3-0fcc-4b85-bba9-bf3d43656454">
 
 
 
